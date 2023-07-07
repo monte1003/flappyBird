@@ -35,7 +35,7 @@ spot.src = "audios/punto.mp3"
 
 
 let bird={
-  x: 52,
+  x: 50,
   y: 150,
   w: 50,
   h: 50,
